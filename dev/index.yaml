@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   workloadattestorss:
   - apiVersion: v2
+    appVersion: demo-5.1
+    created: "2023-11-09T18:59:37.373733+05:30"
+    description: A Helm chart for Kubernetes
+    digest: b31345802b0418b332016a3dc3da120bd9dd671f73874847c1c258c8e70f457e
+    name: workloadattestorss
+    type: application
+    urls:
+    - workloadattestorss-0.1.7.tgz
+    version: 0.1.7
+  - apiVersion: v2
     appVersion: dev-486230b
-    created: "2023-10-17T14:51:10.016948+05:30"
+    created: "2023-11-09T18:59:37.372751+05:30"
     description: A Helm chart for Kubernetes
     digest: 99594c17ab62e173d91176049579d4105f4b5b9a4eec1b1acc850da382286846
     name: workloadattestorss
@@ -11,4 +21,4 @@ entries:
     urls:
     - workloadattestorss-0.1.6.tgz
     version: 0.1.6
-generated: "2023-10-17T14:51:10.016342+05:30"
+generated: "2023-11-09T18:59:37.365929+05:30"
