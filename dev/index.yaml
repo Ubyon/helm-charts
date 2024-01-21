@@ -3,12 +3,12 @@ entries:
   workloadattestorss:
   - apiVersion: v2
     appVersion: demo-5.35
-    created: "2024-01-19T16:35:10.648691+05:30"
-    description: A Helm chart for Kubernetes
-    digest: 6e9422736fd24a801b3799429e3b623ad9e413eb47dbbe63065a27a21e1b69c0
+    created: "2024-01-21T22:19:59.308598+05:30"
+    description: Helm chart Ubyon Workload Attestor
+    digest: d40642a5751603aff534a3327128bf9708f14b0f692521f879c0de35bd84d525
     name: workloadattestorss
     type: application
     urls:
-    - workloadattestorss-0.1.11.tgz
-    version: 0.1.11
-generated: "2024-01-19T16:35:10.648229+05:30"
+    - workloadattestorss-0.1.12.tgz
+    version: 0.1.12
+generated: "2024-01-21T22:19:59.306944+05:30"
