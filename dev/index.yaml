@@ -2,13 +2,13 @@ apiVersion: v1
 entries:
   workloadattestorss:
   - apiVersion: v2
-    appVersion: demo-5.4
-    created: "2024-02-01T14:28:43.621277+05:30"
+    appVersion: demo-5.5
+    created: "2024-03-08T17:18:25.510148+05:30"
     description: Helm chart Ubyon Workload Attestor
-    digest: c41de9f47684a065df9472d1354a1a44a0d6441a75ca962ab8abe8a68a716c9a
+    digest: aac55860d45e41c7a4dad3700886c2101145306d32d381c5b62a29f109e2c2e5
     name: workloadattestorss
     type: application
     urls:
-    - workloadattestorss-0.1.15.tgz
-    version: 0.1.15
-generated: "2024-02-01T14:28:43.620071+05:30"
+    - workloadattestorss-0.1.16.tgz
+    version: 0.1.16
+generated: "2024-03-08T17:18:25.509478+05:30"
